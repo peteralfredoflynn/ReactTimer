@@ -25240,7 +25240,7 @@
 	            'Created by ',
 	            React.createElement(
 	              'a',
-	              { href: 'http://www.peterflynn.net' },
+	              { target: '_blank', href: 'http://www.peterflynn.net' },
 	              'Peter Flynn'
 	            )
 	          )
